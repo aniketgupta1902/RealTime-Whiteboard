@@ -7,5 +7,3 @@ a stack by storing Positions, Colours and width of the Pen and
 Eraser.
 
 • Deployed web‐app using Python Flask framework.
-
-Website Link : whiteboard web app
